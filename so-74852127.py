@@ -1,3 +1,4 @@
+# https://stackoverflow.com/questions/74852127/find-the-minimum-number-of-days-required-to-paint-all-the-tiles
 from collections import defaultdict, deque
 import bisect
 from copy import deepcopy
